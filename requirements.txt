@@ -7,5 +7,4 @@ sqlparse
 typing_extensions
 dj-database-url
 psycopg2-binary
-whitenoise[brotli]
 gunicorn
